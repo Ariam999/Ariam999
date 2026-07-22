@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## About Me
+I am currently a summer intern with CI4CJ, a nonprofit based in central PA. I am currently learning python and SQL. 
 <!--
 **Ariam999/Ariam999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
